@@ -1,0 +1,26 @@
+{
+  "name": "swaps",
+  "owner": {
+    "name": "Swaps",
+    "email": "id@swaps.app",
+    "url": "https://www.swaps.app"
+  },
+  "plugins": [
+    {
+      "name": "swaps",
+      "source": "https://github.com/swapsapp/claude-code-plugin",
+      "description": "Agent-native crypto on-ramp aggregator. Live quotes, 6-axis provider taxonomy, and routing rationale across 6 providers via @agent.swaps/mcp-server.",
+      "version": "1.0.0",
+      "repository": "https://github.com/swapsapp/claude-code-plugin",
+      "homepage": "https://www.swaps.app/developers/skills/mcp-server",
+      "keywords": [
+        "mcp",
+        "crypto",
+        "on-ramp",
+        "fintech",
+        "aggregator",
+        "agent"
+      ]
+    }
+  ]
+}

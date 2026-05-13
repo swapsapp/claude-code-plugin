@@ -1,0 +1,24 @@
+{
+  "name": "swaps",
+  "displayName": "Swaps MCP",
+  "description": "Agent-native crypto on-ramp aggregator. Live quotes, 6-axis provider taxonomy, and routing rationale across Paybis, Transak, Mercuryo, Coinbase Onramp, Bridge, and Partna.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Swaps",
+    "url": "https://www.swaps.app"
+  },
+  "homepage": "https://www.swaps.app/developers/skills/mcp-server",
+  "repository": "https://github.com/swapsapp/claude-code-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "crypto",
+    "on-ramp",
+    "off-ramp",
+    "fintech",
+    "aggregator",
+    "agent",
+    "anthropic",
+    "claude"
+  ]
+}
